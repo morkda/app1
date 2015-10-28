@@ -18,5 +18,6 @@
     </author>
 <preference name="phonegap-version" value="5.2.0" /> 
 <gap:platform name="android" />
+<gap:platform name="ios" />
 <icon src="icon.png" />
 </widget>
